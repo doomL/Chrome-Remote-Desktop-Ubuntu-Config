@@ -1,0 +1,22 @@
+# Backup files
+*.backup.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+GITHUB_DESCRIPTION.md
